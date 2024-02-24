@@ -5,7 +5,13 @@ Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native 
 ## 🚀 How to start the project
 
 ```sh
-npx create-expo-app -e with-router
+git clone https://github.com/Alex1-ai/Job-Search-App
+
+cd Job-Search-App
+
+npm install
+
+npm start
 
 ```
 
