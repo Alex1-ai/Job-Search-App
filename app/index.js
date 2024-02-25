@@ -23,7 +23,7 @@ Home = () =>{
                 },
 
                 headerRight: () =>{
-                    return <ScreenHeaderBtn iconUrl={images.profile} dimension="100%" />
+                    return <ScreenHeaderBtn iconUrl={images.mypics2.png} dimension="100%" />
                     // return <Text>Left Side</Text>
                 },
                 headerTitle: ""
